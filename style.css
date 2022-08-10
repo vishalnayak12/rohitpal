@@ -1340,10 +1340,12 @@ input.placesend {
 
 .girl {
     max-width: 100%;
+    text-align: center;
+    margin: auto;
 }
 
 img.laptop {
-    width: 100%;
+    width: 80%;
 }
 
 a.navbar-brand {
