@@ -721,6 +721,7 @@ p.well {
     text-align: center;
     max-width: 80px;
     margin: auto;
+    padding-bottom: 40px;
 }
 
 li.first.dizme {
