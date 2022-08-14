@@ -1479,5 +1479,26 @@ ul.navbar-nav {
         padding-top: 30px;
         margin-top: 20px;
     }
+    .con {
+        text-align: center;
+        max-width: 80px;
+        margin: auto;
+        padding-bottom: 40px;
+    }
+    section.banner {
+        padding: 90px 0px 90px 0px;
+    }
+    .mainimg {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 0px;
+        
+    }
+    .mainlist {
+        float: none;
+        margin: 0;
+        /* float: left; */
+        /* width: 25%; */
+        width: auto}
 
 }
